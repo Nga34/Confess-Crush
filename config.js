@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'yêu lắm nè <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'i love you 🥰. Yêu chị nhiều nhiều 😘😘',
+    mess: 'i love you 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'muốn gặp nhau quá á :< :< .',
     btnAccept: 'Okiiiii sẽ cố  <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
